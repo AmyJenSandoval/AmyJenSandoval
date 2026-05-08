@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽 I'm Amy!</h1>
 <h3 align="center">An Associate Software Developer at <a href="https://www.sas.com/en_us/home.html" target="blank">SAS</a></h3>
 
-<p align="center">💻 I’m currently working on converting legacy code to React and authoring Playwright tests</p>
+<p align="center">💻 I’m currently developing new features for <a href="https://www.sas.com/en_us/solutions/customer-intelligence/marketing.html" target="blank">CI 360</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
